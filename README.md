@@ -8,20 +8,6 @@
     <a href="https://sites.google.com/view/adarivamsi"><img src="https://github.com/adarivamsi/adarivamsi/blob/master/globe.png" height="30" width="30"></a>
 </div>
 <hr>
-<div>
-<table>
-<tr>
-<th><br>         
-    
-[![github stats](https://github-readme-stats.vercel.app/api?username=adarivamsi&show_icons=true)](https://github.com/adarivamsi)
-</th>
-<th><br>
-    
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adarivamsi)](https://github.com/adarivamsi) 
-</th>
-</tr>
-</table>
-
 <p>
   <a href="https://github.com/adarivamsi">
     <img width="55%" align="right" alt="Vamsi Charan Adari's github stats" src="https://github-readme-stats.vercel.app/api?username=adarivamsi&show_icons=true&hide_border=true" />
