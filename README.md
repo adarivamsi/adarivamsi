@@ -1,4 +1,4 @@
-### Vamsi Charan Adari 👨‍💻
+# Vamsi Charan Adari 👨‍💻
 <div>
     <a href="https://www.linkedin.com/in/adarivamsi/" alt="Linkedin"><img src="https://github.com/adarivamsi/adarivamsi/blob/master/linkedin.png" height="30" width="30"></a>&nbsp;
     <a href="https://www.facebook.com/adarivamsicharan"><img src="https://github.com/adarivamsi/adarivamsi/blob/master/facebook.jpg" height="30" width="30"></a>&nbsp;
@@ -9,14 +9,12 @@
 </div>
 <hr>
 
-- 🔭 I’m currently working on ... 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on [Leaf Detection Research Project](https://sites.google.com/view/adarivamsi)
+- 🌱 I’m currently learning Neural Network, Image Processing, Object Detection
+- 👯 I’m looking to collaborate on Open Source Projects related on Machine Learning
+- 🤔 I’m looking for help with Angular, SpringBoot, Machine Learning
+- 💬 Ask me about anything [here](https://github.com/adarivamsi/adarivamsi/issues)
+- ⚡ Fun fact: I love meeting new people and eating food!
 
 <hr>
 
