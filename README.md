@@ -1,5 +1,4 @@
 # Vamsi Charan Adari 👨‍💻
-<hr>
 
 - 🔭 I’m currently working on [Leaf Detection Research Project](https://sites.google.com/view/adarivamsi)
 - 🌱 I’m currently learning Neural Network, Image Processing, Object Detection
