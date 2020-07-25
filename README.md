@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 -->
 <hr>
 
-![github stats](https://github-readme-stats.vercel.app/api?username=adarivamsi&show_icons=true)
+![github stats](https://github-readme-stats.vercel.app/api?username=adarivamsi&hide=contribs,issues&show_icons=true)
 
 <hr>
 <p align="center">
