@@ -9,7 +9,8 @@
 </div>
 
 <hr>
-<table align="center">
+<div align="center">
+<table>
 <tr>
 <th><br>         
     
@@ -21,6 +22,7 @@
 </th>
 </tr>
 </table>
+</div>
 
 - 🔭 I’m currently working on ... 
 - 🌱 I’m currently learning ...
