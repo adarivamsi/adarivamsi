@@ -11,12 +11,12 @@
 <hr>
 <table>
 <tr>
-<td>
+<th>
             
 [![github stats](https://github-readme-stats.vercel.app/api?username=adarivamsi&show_icons=true)](https://github.com/adarivamsi)
 
-</td>
-<td>
+</th>
+<th>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
@@ -32,7 +32,7 @@
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/yaml/yaml-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>\        
-</td>
+</th>
 </tr>
 </table>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adarivamsi)](https://github.com/adarivamsi) 
