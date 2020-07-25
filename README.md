@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <hr>
-
-![github stats](https://github-readme-stats.vercel.app/api?username=adarivamsi&hide=contribs,issues&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adarivamsi)](https://github.com/adarivamsi/github-readme-stats)
+![github stats](https://github-readme-stats.vercel.app/api?username=adarivamsi&hide=contribs&show_icons=true)
 
 <hr>
 <p align="center">
