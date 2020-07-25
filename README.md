@@ -11,7 +11,7 @@
 <hr>
 <table>
 <tr>
-<th>
+<th><br>
             
 [![github stats](https://github-readme-stats.vercel.app/api?username=adarivamsi&show_icons=true)](https://github.com/adarivamsi)
 </th>
