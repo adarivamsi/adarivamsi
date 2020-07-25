@@ -15,8 +15,7 @@
 - 🤔 I’m looking for help with Natural Language Processing/Understanding, Computer vision, Reinforcement Learning
 - 💬 Ask me about anything [here](https://github.com/adarivamsi/adarivamsi/issues)
 - ⚡ Fun fact: I love meeting new people and eating food!
-
-
+<br>
 <p>
   <a href="https://github.com/adarivamsi">
     <img width="55%" align="right" alt="Vamsi Charan Adari's github stats" src="https://github-readme-stats.vercel.app/api?username=adarivamsi&show_icons=true&hide_border=true" />
