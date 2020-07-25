@@ -17,8 +17,13 @@
 </th>
 <th>
 <img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg">
+</th>
+<th>
 <img width="10%" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg">
+</th>
+<th>
 <img width="10%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg">
+</th>
 <br />
 <img width="10%" src="https://www.vectorlogo.zone/logos/gradle/gradle-ar21.svg">
 <img width="10%" src="https://www.vectorlogo.zone/logos/circleci/circleci-ar21.svg">
