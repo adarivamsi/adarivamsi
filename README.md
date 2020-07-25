@@ -11,10 +11,12 @@
 <hr>
 <table align="center">
 <tr>
-<th><br>            
+<th><br>         
+    
 [![github stats](https://github-readme-stats.vercel.app/api?username=adarivamsi&show_icons=true)](https://github.com/adarivamsi)
 </th>
 <th>
+    
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adarivamsi)](https://github.com/adarivamsi) 
 </th>
 </tr>
