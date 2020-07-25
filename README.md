@@ -1,12 +1,12 @@
 ### Vamsi Charan Adari 👨‍💻
-<p>
+<div>
     <a href="https://twitter.com/adarivamsi" alt="Twitter"><img src="https://github.com/aletisunil/aletisunil/blob/master/twitter.png" height="30" width="30"></a>&nbsp;
     <a href="https://www.linkedin.com/in/adarivamsi/" alt="Linkedin"><img src="https://github.com/aletisunil/aletisunil/blob/master/linkedin.png" height="30" width="30"></a>&nbsp;
     <a href="https://www.instagram.com/iam_adarivamsi" alt="Instagram"><img src="https://github.com/aletisunil/aletisunil/blob/master/instagram.png" height="30" width="30"></a>&nbsp;
      <a href="https://t.me/adarivamsi" alt="Telegram"><img src="https://github.com/aletisunil/aletisunil/blob/master/telegram.png" height="30" width="30"></a>&nbsp;
-    <a href="https://adarivamsi.github.io/"><img src="https://github.com/aletisunil/aletisunil/blob/master/globe.png" height="30" width="30"></a>
+    <a href="https://sites.google.com/view/adarivamsi"><img src="https://github.com/aletisunil/aletisunil/blob/master/globe.png" height="30" width="30"></a>
 
-</p>
+</div>
 
 <!--
 **adarivamsi/adarivamsi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
