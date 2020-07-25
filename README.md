@@ -7,7 +7,8 @@
      <a href="https://t.me/adarivamsi" alt="Telegram"><img src="https://github.com/adarivamsi/adarivamsi/blob/master/telegram.png" height="30" width="30"></a>&nbsp;
     <a href="https://sites.google.com/view/adarivamsi"><img src="https://github.com/adarivamsi/adarivamsi/blob/master/globe.png" height="30" width="30"></a>
 </div>
-    [![github stats](https://github-readme-stats.vercel.app/api?username=adarivamsi&show_icons=true)](https://github.com/adarivamsi
+
+[![github stats](https://github-readme-stats.vercel.app/api?username=adarivamsi&show_icons=true)](https://github.com/adarivamsi
 
 <hr>
 
