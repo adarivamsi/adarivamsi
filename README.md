@@ -7,9 +7,8 @@
      <a href="https://t.me/adarivamsi" alt="Telegram"><img src="https://github.com/adarivamsi/adarivamsi/blob/master/telegram.png" height="30" width="30"></a>&nbsp;
     <a href="https://sites.google.com/view/adarivamsi"><img src="https://github.com/adarivamsi/adarivamsi/blob/master/globe.png" height="30" width="30"></a>
 </div>
-
 <hr>
-<div align="center">
+<div>
 <table>
 <tr>
 <th><br>         
@@ -22,7 +21,6 @@
 </th>
 </tr>
 </table>
-</div>
 
 - 🔭 I’m currently working on ... 
 - 🌱 I’m currently learning ...
