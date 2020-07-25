@@ -9,7 +9,7 @@
 </div>
 
 <hr>
-<table>
+<table align="center">
 <tr>
 <th><br>
             
