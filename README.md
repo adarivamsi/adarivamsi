@@ -33,5 +33,3 @@ Here are some ideas to get you started:
   </p>
     
 </p>
-
-⭐️ From [Vamsi Charan Adari](https://github.com/adarivamsi)
