@@ -9,9 +9,12 @@
 </div>
 
 <hr>
-    
-[![github stats](https://github-readme-stats.vercel.app/api?username=adarivamsi&show_icons=true)](https://github.com/adarivamsi) 
-    
+<table>
+    <tr>
+        <td>
+            
+[![github stats](https://github-readme-stats.vercel.app/api?username=adarivamsi&show_icons=true)](https://github.com/adarivamsi)
+
 <p>
     <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
     <code><img width="10%" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"></code>
@@ -30,6 +33,10 @@
     <code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
 </p>
 
+        
+        </td>
+        </tr>
+</table>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adarivamsi)](https://github.com/adarivamsi) 
 
 - 🔭 I’m currently working on ... 
