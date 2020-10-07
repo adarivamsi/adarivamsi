@@ -1,6 +1,6 @@
 # Vamsi Charan Adari 👨‍💻
 
-- 🔭 I’m currently working on [Eat Food - Full Stack Application](https://github.com/adarivamsi/eat-food)
+- 🔭 I’m currently working on [PBFlix(Netflix Clone) Application](https://github.com/adarivamsi/pbflix)
 - 🌱 I’m currently learning Neural Network, Image Processing, Object Detection
 - 👯 I’m looking to collaborate on Open Source Projects related on Machine Learning
 - 🤔 I’m looking for help with Natural Language Processing/Understanding, Computer vision, Reinforcement Learning
